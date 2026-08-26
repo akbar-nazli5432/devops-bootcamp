@@ -5,3 +5,6 @@
 ## Tujuan
 Belajar git workflow lokal.
 Belajar lagi
+
+## Senarai Arahan
+# - git init / git add / git commit
